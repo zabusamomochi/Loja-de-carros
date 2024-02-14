@@ -1,0 +1,27 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+body{
+    background: url(../IMG/wallpaper.jfif) ;
+    margin: auto;
+    text-align: center;
+    
+}
+
+img{
+    text-align: center;
+    
+}
+
+.large{
+    width: 350px;
+}
+
+.colorido{
+    color: red;
+}
+.border-color{
+    box-shadow: 20px;
+}
